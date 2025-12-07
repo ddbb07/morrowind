@@ -860,6 +860,14 @@ plugins:
     after: [ 'Vivec_Lighthouse.ESP' ]
 
 ###### Gameplay - Skills & Abilities ######
+  - name: 'skill-evolution\.omw(scripts|addon)'
+    url:
+      - link: 'https://www.nexusmods.com/morrowind/mods/57802/'
+        name: 'Skill Evolution'
+    after:
+      - 'StatsWindow.ESP'
+      - 'StatsWindow.omwscripts'
+
 ###### Gameplay - User Interface ######
 ###### Gameplay - User Interface - Map markers ######
 ###### Gameplay - User Interface - Maps ######
