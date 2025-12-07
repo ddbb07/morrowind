@@ -868,6 +868,14 @@ plugins:
       - 'StatsWindow.ESP'
       - 'StatsWindow.omwscripts'
 
+  - name: 'skill-evolution\.omw(scripts|addon)'
+    url:
+      - link: 'https://www.nexusmods.com/morrowind/mods/57802/'
+        name: 'Skill Evolution'
+    after:
+      - 'StatsWindow.ESP'
+      - 'StatsWindow.omwscripts'
+
   - name: 'SkillFramework\.omwscripts'
     url:
       - link: 'https://www.nexusmods.com/morrowind/mods/57765/'
